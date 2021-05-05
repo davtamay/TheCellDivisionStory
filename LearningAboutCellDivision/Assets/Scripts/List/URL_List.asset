@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 752555800cd888041b47a619326ea805, type: 3}
+  m_Name: URL_List
+  m_EditorClassIdentifier: 
+  url_list:
+  - name: CH3NH3PbI3_wrl_DAE-Convert
+    url: https://raw.githubusercontent.com/davtamay/Models/master/CH3NH3PbI3_wrl_DAE-Convert.dae
+    scale: 0.1
+    position: {x: 0, y: 1, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 1
+  - name: KP(HO2)2_xyz
+    url: https://raw.githubusercontent.com/davtamay/Models/master/KP(HO2)2_xyz_DAE_Convert.dae
+    scale: 0.1
+    position: {x: 0, y: 1, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 1
+  - name: LAO_xyz_DAE
+    url: https://raw.githubusercontent.com/davtamay/Models/master/LAO_xyz_DAE_Convert.dae
+    scale: 0.1
+    position: {x: 0, y: 1, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 1
+  - name: ZnO_xyz
+    url: https://raw.githubusercontent.com/davtamay/Models/master/ZnO_xyz_DAE_convert.dae
+    scale: 0.1
+    position: {x: 0, y: 1, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 0
+  - name: test (DAE) -1
+    url: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/sourceModels/BoxAnimated/BoxAnimated.dae
+    scale: 3
+    position: {x: -1, y: 0, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 0
+  - name: test (DAE) - 2
+    url: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/sourceModels/SmilingFace/SmilingFace.dae
+    scale: 1
+    position: {x: 1, y: 0, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 0
+  - name: test (DAE) - 3
+    url: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/sourceModels/BoxTextured/BoxTextured.dae
+    scale: 1
+    position: {x: 0, y: -1, z: -1}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 0
+  - name: test (DAE) - 4
+    url: https://models.babylonjs.com/boombox.glb
+    scale: 8
+    position: {x: 0, y: 0, z: 0.2}
+    euler_rotation: {x: 0, y: 180, z: 0}
+    isWholeObject: 0
+  - name: CesiumMan
+    url: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/CesiumMan/glTF-Embedded/CesiumMan.gltf
+    scale: 1
+    position: {x: -2, y: 0, z: 0}
+    euler_rotation: {x: 90, y: 180, z: 0}
+    isWholeObject: 0
+  - name: Buggy
+    url: https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Buggy/glTF-Embedded/Buggy.gltf
+    scale: 0.01
+    position: {x: 0, y: 0, z: 0}
+    euler_rotation: {x: 0, y: 0, z: 0}
+    isWholeObject: 0

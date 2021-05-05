@@ -1,0 +1,9 @@
+
+=== Tue Mar 17 00:35:23 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.analytics from version 3.2.2 to 3.2.3
+  com.unity.xr.windowsmr.metro from version 1.0.18 to 1.0.19
